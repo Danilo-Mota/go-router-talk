@@ -1,9 +1,1 @@
-1- Desenho da navegação
-
-2- Entendendo a classe GoRoute
-
-3- Diferença entre pushNamed e goNamed
-
-4- Terminar o desenho da navegação
-
-5- Como estamos organizando a navegação nos projetos com GoRouter
+Projeto utilizado para a apresentação de um talk para explicar sobre o funcionamento da navegação utilizando o GoRouter com Flutter
